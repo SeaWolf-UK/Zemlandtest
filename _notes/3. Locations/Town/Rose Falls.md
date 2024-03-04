@@ -1,0 +1,3 @@
+- Small town
+- On outskirts of town is a Mages Guild compound
+- [[Ella]] obtained the amulet from the mages.
