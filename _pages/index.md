@@ -1,33 +1,53 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
 
-# Welcome! 🌱
+## Player Characters 
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+- [[Eirwen Sarkan]] 
+- [[Nigel Del La Plumph]]
+- [[Seraphina Shadowbloom]] 
+- [[Vaen Silversong]] 
+- [[Workax Dreyman]] 
+- [[Cory (AKA Checkers)]] 
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+## Sessions 
 
-<strong>Recently updated notes</strong>
+1. [[2024-02-04]] 
+2. [[2024-02-11]] 
+3. [[2024-02-18]] 
+4. [[2024-02-25]] 
+5. [[2024-03-03]] 
+6. [[2024-03-10]]
+7. [[2024-03-17]]
+8. [[2024-03-24]]
+9. [[2024-03-31]]
 
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+## **The Kingdom of Zemland**
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+### **Lore** 
+
+
+### **Locations** 
+
+
+##### Cities
+
+
+##### Continents 
+
+
+##### Countries
+
+
+##### Hamlets
+
+
+##### Places of Interest
+
+
+##### Towns
+
+
+##### Villages
+
+
+### **NPC's**
